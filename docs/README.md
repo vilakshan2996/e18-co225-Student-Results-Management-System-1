@@ -1,27 +1,27 @@
----
+<!-- ---
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
+<!-- # Please update this with your repository name and title
 repository-name: eYY-XXX-project-template
-title:
----
+title: -->
+
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Student Results Management System
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
+<p>
+ <kbd><img src="https://mobilemarketingwatch.com/wp-content/uploads/2016/09/banner_bg-1500x928-1132x670.jpg"></kbd>
+</p>
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/340, Vithurshini S., [email](mailto:e18340@eng.pdn.ac.lk)
+-  E/18/373, Vilakshan V., [email](mailto:e18373@eng.pdn.ac.lk)
+-  E/18/245, Nishani K., [email](mailto:e18245@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,7 +32,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+ Currently there is no effective system to manage undergraduate students’ marks either it is handled manually or in spreadsheets. Therefore the aim of our project is to build a mobile application to automate the student grades management system process. Compared to the manual system this will save lots of time and also makes your work easier.
 
 ## Other Sub Topics
 
